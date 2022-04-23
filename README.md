@@ -5,7 +5,7 @@
 Node.js version 14+ and npm must be installed on your machine. MongoDb must be installed and runing on port:27017. In terminal type the following commands to run the api server:
 
 ```
-git clone https://gitlab.crio.do/COHORT_ME_BUILDOUT_XHARKTANK_ENROLL_1648956266180/asisrout7-ME_BUILDOUT_XHARKTANK.git
+git clone https://github.com/AsisRout/Backend-Assignment.git
 npm install
 npm run start
 ```
