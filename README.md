@@ -26,16 +26,4 @@ The server is made on `nodejs` (v14.19.1)
 
 - `mongoose` - MongoDB library for JS.
 
-## API
-
-- The various requests and endpoints are:-
-
-  - POST `/pitches` - to create pitch.
-
-  - GET `/pitches` - to get all pitches.
-
-  - GET `/pitches/{id}` - to get a particular pitch.
-
-  - POST `/pitches/{id}/makeOffer` - to make a Counter Offer for a pitch.
-
 - Use POSTMAN to fire off the requests to the endpoints.
